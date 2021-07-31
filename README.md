@@ -10,7 +10,7 @@ Bashography Is a quick and easy way to write a biography for yourself.
 
 ## Installation
 ```bash
-$ https://github.com/trapzi/bashography/bashography.sh && cd bashography
+$ git clone https://github.com/trapzi/bashography/bashography.sh && cd bashography
 $ chmod +x bashography.sh
 $ ./bashography.sh
 ```

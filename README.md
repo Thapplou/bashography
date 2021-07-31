@@ -1,6 +1,6 @@
 # Bashography
 
-**Write a quick biography using bashography**\
+**Write a biography using bashography**\
 Bashography Is a quick and easy way to write a biography for yourself.
 
 ## Screenshot
